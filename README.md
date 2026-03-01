@@ -24,8 +24,11 @@ The system uses Transfer Learning with VGG16 to achieve high accuracy in medical
 
 ## 📂 Dataset
 
- link: 
+ link Dataset: 
 https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/data
+
+link Kaggle:
+https://www.kaggle.com/work
 
 ---
 
