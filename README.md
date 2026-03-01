@@ -1,7 +1,7 @@
 # 🦠 COVID-19 X-Ray Classification (VGG16 + TensorFlow)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f5ea4e1-15e9-4e5d-bd76-fa4c56b99162" width="650"/>
+  <img src="https://github.com/user-attachments/assets/3c709a3a-7687-47d1-9e56-96989e17c27e" width="650"/>
 </p>
 
 
