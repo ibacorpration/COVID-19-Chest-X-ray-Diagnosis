@@ -116,8 +116,8 @@ Modify:
 
 
 ### 3️⃣ Run the System
-
-python main.py
+powerShell :
+ - streamlit run streamlit_app.py
 
 ---
 
