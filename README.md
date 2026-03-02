@@ -28,7 +28,7 @@ link Dataset:
 https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/data
 
 link Kaggle: 
-https://www.kaggle.com/work/overview
+https://www.kaggle.com/code/ibrahemsayed/covid-19-image-classification-vgg16
 
 ---
 
