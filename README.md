@@ -114,6 +114,10 @@ Modify:
   
 - test_data_path = '.../Covid19-dataset/test'
 
+### 2️⃣ Load Model and import in streamlit app
+
+- Covid_19_VGG116.h5
+
 
 ### 3️⃣ Run the System
 powerShell :
